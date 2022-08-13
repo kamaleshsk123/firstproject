@@ -1,4 +1,5 @@
 a=21;
 b=5;
-print(a+b)
+c=23;
+print(a+b+c)
 print("Kamalesh")
