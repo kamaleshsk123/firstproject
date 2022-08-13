@@ -1,4 +1,4 @@
-a=2;
+a=21;
 b=5;
-print(a*b)
+print(a+b)
 print("Kamalesh")
